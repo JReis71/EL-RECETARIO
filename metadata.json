@@ -1,0 +1,6 @@
+{
+  "name": "Criador e Leitor de eBooks Pro",
+  "description": "Plataforma completa para criar, ler, personalizar e exportar eBooks e livros ilustrados em PDF e HTML com assistência de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
